@@ -9,6 +9,6 @@ image: mountains.jpg
 
 I am a computer science PhD student at Northeastern University. 
 
-## Getting Started
+
 
 
