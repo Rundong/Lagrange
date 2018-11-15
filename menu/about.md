@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Welcome to Lagrange!
-image: Li_Rundong-hero-image
+image: Li_Rundong_linder1209-0952-web.jpg
 ---
 
 ### Getting Started
