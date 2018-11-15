@@ -3,29 +3,26 @@ layout: page
 title: Research
 ---
 
-
- # Research
-
 My research interest lies in the field of database and data mining. Recently I focus on distributed and parallel data processing, making computation scale to huge data sets on big clusters. Specific projects I have been working on are listed as follows.
 
- ### Improving Performance of Large-Scale Analytics Platforms
+__Improving Performance of Large-Scale Analytics Platforms__
 
  - Designing novel distributed join algorithms that achieve near-optimal efficiency using dynamic data partitioning strategies to improve load balance in the presence of data skew.
  - Developing cost models that enable distributed data-analysis platforms to automatically determine parameters minimizing computation time.
 
- ### Analyzing and Modeling Neural Structures in the Brain
+__Analyzing and Modeling Neural Structures in the Brain__
  
  - Designing efficient parallel algorithms to identify neural structures in microscopic image stacks.
  - Developing algorithms to search time series neurogeometry data and detect interesting evolving patterns.
  
- ### Game Data Analysis
+__Game Data Analysis__
 
  - Designing novel scalable distributed algorithms for processing and analyzing large data sets, especially for network or graph data.
  - Developing machine learning models for explaining and predicting relationship formation of online game users.
 
 
 
- ## _Publications_
+___Publications___
 
 _Rundong Li, Mirek Riedewald, and Xinyan Deng_. **Submodularity of Distributed Join Computation**. In Proceedings of International Conference on Mangement of Data (SIGMOD) 2018: 1237-1252.
 
