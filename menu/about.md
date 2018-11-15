@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome to Lagrange!
+title: Rundong's Homepage!
 image: Li_Rundong_linder1209-0952-web.jpg
 ---
 
