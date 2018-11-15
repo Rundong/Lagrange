@@ -1,10 +1,11 @@
 ---
 layout: page
 title: Rundong's Homepage!
-image: Li_Rundong_linder1209-0952-web.jpg
 ---
 
-### Getting Started
+### Welcome!
+
+![Alt](/assets/img/Li_Rundong_linder1209-0952-web.jpg)
 
 This is Rundong Li's personal website. 
 
