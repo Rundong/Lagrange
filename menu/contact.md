@@ -3,8 +3,11 @@ layout: page
 title: Contact
 ---
 
-# Email
+# Contact Me
+
+ ## Email
 first-name (AT) ccs (dot) neu (dot) edu
 
-# LinkedIn
+
+ ## LinkedIn
 [Rundong Li](https://www.linkedin.com/in/rundong-li-1ba04317/)
