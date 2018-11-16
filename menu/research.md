@@ -10,6 +10,9 @@ __Improving Performance of Large-Scale Analytics Platforms__
  - Designing novel distributed join algorithms that achieve near-optimal efficiency using dynamic data partitioning strategies to improve load balance in the presence of data skew.
  - Developing cost models that enable distributed data-analysis platforms to automatically determine parameters minimizing computation time.
 
+![mat-prod](https://rundong.github.io/personal/assets/2017-dawak-img/triple-phase-alg.pdf)
+![mat-prod](https://rundong.github.io/personal/assets/2017-dawak-img/pieces-example.pdf)
+
 __Analyzing and Modeling Neural Structures in the Brain__
  
  - Designing efficient parallel algorithms to identify neural structures in microscopic image stacks.
