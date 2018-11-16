@@ -13,7 +13,7 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'github', link: 'https://www.github.com/Rundong'}
+# - {icon: 'github', link: 'https://www.github.com/Rundong'}
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/rundong-li-1ba04317/'}
 - {icon: 'envelope', link: 'mailto:rundong@ccs.neu.edu'}
 # - {icon: 'rss-square', link: '/feed.xml'}
