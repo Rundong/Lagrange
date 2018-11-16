@@ -5,7 +5,7 @@ title: Rundong's Homepage!
 
 ### Welcome!
 
-![Alt](/assets/img/Li_Rundong_linder1209-0952-web.jpg)
+![Alt]({{ site.github.url }}/assets/img/Li_Rundong_linder1209-0952-web.jpg)
 
 This is Rundong Li's personal website. 
 
