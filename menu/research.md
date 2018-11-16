@@ -10,12 +10,12 @@ __Improving Performance of Large-Scale Analytics Platforms__
  - Designing novel distributed join algorithms that achieve near-optimal efficiency using dynamic data partitioning strategies to improve load balance in the presence of data skew.
  - Developing cost models that enable distributed data-analysis platforms to automatically determine parameters minimizing computation time.
  
- <span style="font-family:Verdana; font-size:smaller;">join partitioning</span> | <span style="font-family:Verdana; font-size:bigger;">greedy partitioning</span> | <span style="font-family:Verdana; font-size:bigger;">safe termination</span> |
+ <span style="font-family:Verdana; font-size:smaller;">join partitioning</span> | <span style="font-family:Verdana; font-size:smaller;">greedy partitioning</span> | <span style="font-family:Verdana; font-size:smaller;">safe termination</span> |
  ----------- | ----------- | ----------- |
  ![join-rep](https://rundong.github.io/personal/assets/papers-img/join-rep.JPG) | ![greedy-part](https://rundong.github.io/personal/assets/papers-img/egGreedySteps.JPG) | ![safeStop](https://rundong.github.io/personal/assets/papers-img/safeStop.png) | 
 
 
-| <span style="font-family:Verdana; font-size:bigger;">Example: distributed matrix product</span> | <span style="font-family:Verdana; font-size:bigger;">abstract cost model</span> |
+| <span style="font-family:Verdana; font-size:smaller;">Example: distributed matrix product</span> | <span style="font-family:Verdana; font-size:smaller;">abstract cost model</span> |
 | ----------- | ----------- |
 | ![mat-prod](https://rundong.github.io/personal/assets/papers-img/triple-phase-alg.JPG) | ![piecewise](https://rundong.github.io/personal/assets/papers-img/pieces-example.JPG) |
 
