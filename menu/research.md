@@ -10,9 +10,9 @@ __Improving Performance of Large-Scale Analytics Platforms__
  - Designing novel distributed join algorithms that achieve near-optimal efficiency using dynamic data partitioning strategies to improve load balance in the presence of data skew.
  - Developing cost models that enable distributed data-analysis platforms to automatically determine parameters minimizing computation time.
  
-| join partitioning | greedy partitioning | safe termination |
-| ----------- | ----------- |
-| ![join-rep](https://rundong.github.io/personal/assets/papers-img/join-rep.JPG) | ![greedy-part](https://rundong.github.io/personal/assets/papers-img/egGreedySteps.JPG) | ![safeStop](https://rundong.github.io/personal/assets/papers-img/safeStop.png) | 
+ join partitioning | greedy partitioning | safe termination |
+ ----------- | ----------- | ----------- |
+ ![join-rep](https://rundong.github.io/personal/assets/papers-img/join-rep.JPG) | ![greedy-part](https://rundong.github.io/personal/assets/papers-img/egGreedySteps.JPG) | ![safeStop](https://rundong.github.io/personal/assets/papers-img/safeStop.png) | 
 
 
 | Example: distributed matrix product | abstract cost model |
